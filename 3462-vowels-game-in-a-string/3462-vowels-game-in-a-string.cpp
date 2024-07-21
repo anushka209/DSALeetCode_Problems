@@ -9,8 +9,8 @@ public:
             if(s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o' || s[i]=='u')
                 vcount++;
         }
-        if(vcount==0)
+        if(vcount==0)      //Bob wins
             return false;
-        return true;
+        return true;       //Alice wins in all other cases
       }
 };
