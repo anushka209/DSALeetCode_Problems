@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
+| [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushka209/test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Graph
 |  |
 | ------- |
