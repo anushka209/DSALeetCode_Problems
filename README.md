@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushka209/test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/anushka209/test/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Binary Search
