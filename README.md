@@ -62,6 +62,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushka209/test/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anushka209/test/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushka209/test/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
 ## Math
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Graph
