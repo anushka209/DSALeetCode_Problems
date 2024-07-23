@@ -1,17 +1,40 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int,int>mpp;
-        int n=nums.size();
+         int n=nums.size();
+        // map<int,int>mpp;
+        // for(int i=0;i<n;i++)
+        // {
+        //     mpp[nums[i]]++;
+        // }
+        // for(auto it:mpp)
+        // {
+        //    if(it.second>(n/2))
+        //     return it.first;
+        // }
+        // return -1;
+
+        int count=0,ele;   //by moore voting algo
         for(int i=0;i<n;i++)
         {
-            mpp[nums[i]]++;
+            if(count==0)   //start with a new section
+            {
+                count=1;
+                ele=nums[i];
+            }
+            else if(nums[i]==ele)
+                count++;
+            else
+                count--;
         }
-        for(auto it:mpp)
+        int cnt=0;
+        for(int i=0;i<n;i++)
         {
-           if(it.second>(n/2))
-            return it.first;
+            if(nums[i]==ele)
+                cnt++;
+            if(cnt>(n/2))
+                return ele;
         }
-        return -1;;
+        return -1;
     }
 };
