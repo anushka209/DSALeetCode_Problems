@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/anushka209/test/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushka209/test/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/anushka209/test/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anushka209/test/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
@@ -134,6 +136,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anushka209/test/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 ## Counting
 |  |
