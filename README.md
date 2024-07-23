@@ -69,6 +69,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushka209/test/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anushka209/test/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
@@ -128,4 +131,12 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
