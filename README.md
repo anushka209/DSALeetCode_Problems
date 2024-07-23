@@ -70,6 +70,7 @@
 | [0485-max-consecutive-ones](https://github.com/anushka209/test/tree/master/0485-max-consecutive-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushka209/test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -111,6 +113,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Graph
 |  |
