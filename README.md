@@ -78,6 +78,7 @@
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anushka209/test/tree/master/0485-max-consecutive-ones) |
+| [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -127,6 +128,7 @@
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Graph
