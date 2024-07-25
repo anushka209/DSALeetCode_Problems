@@ -1,5 +1,7 @@
 class Solution {
-    void merge(vector<int>& nums,int low,int mid,int high)
+public:
+
+    void merge(vector<int>& nums,int low,int mid,int high)     //using merge sort
     {
         vector<int>v;
         int left=low;
@@ -27,8 +29,6 @@ class Solution {
         mergeSort(nums,mid+1,high);
         merge(nums,low,mid,high);
     }
-public:
-
     vector<int> sortArray(vector<int>& nums) {
         int n=nums.size();
         mergeSort(nums,0,n-1);
