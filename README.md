@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/anushka209/test/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka209/test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka209/test/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushka209/test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/anushka209/test/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
