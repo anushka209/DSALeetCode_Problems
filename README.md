@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/anushka209/test/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka209/test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka209/test/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
