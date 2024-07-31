@@ -105,6 +105,7 @@
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anushka209/test/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/anushka209/test/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -222,6 +225,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -248,9 +252,18 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
