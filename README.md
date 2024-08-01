@@ -111,6 +111,7 @@
 | [0485-max-consecutive-ones](https://github.com/anushka209/test/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
