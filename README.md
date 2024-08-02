@@ -127,6 +127,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushka209/test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anushka209/test/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka209/test/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
@@ -288,4 +289,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anushka209/test/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
