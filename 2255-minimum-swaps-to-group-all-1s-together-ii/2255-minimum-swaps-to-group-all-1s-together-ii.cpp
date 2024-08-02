@@ -2,11 +2,11 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
        int n=nums.size();
-       vector<int>temp(2*n);
-       for(int i=0;i<2*n;i++)
-       {
-        temp[i]=nums[i%n];
-       } 
+    //    vector<int>temp(2*n);     //avoid using extra space
+    //    for(int i=0;i<2*n;i++)
+    //    {
+    //     temp[i]=nums[i%n];
+    //    } 
 
        int totalOnes=0;
        for(int i=0;i<n;i++)
@@ -19,11 +19,11 @@ public:
        int currentOnes=0,maxCount=0;
        while(j<2*n)
        {
-        if(temp[j]==1)
+        if(nums[j%n]==1)      //place nums in place of temp and do modulo
             currentOnes++;
-        if(j-i+1>totalOnes)
+        if(j-i+1>totalOnes)   // if goes out of window
         {
-            currentOnes-=temp[i];
+            currentOnes-=nums[i%n];
             i++;
         }
             maxCount=max(maxCount,currentOnes);
