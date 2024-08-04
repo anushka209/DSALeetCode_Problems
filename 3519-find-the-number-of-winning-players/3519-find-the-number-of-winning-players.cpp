@@ -1,25 +1,24 @@
 class Solution {
 public:
     int winningPlayerCount(int n, vector<vector<int>>& pick) {
-      vector<vector<int>>arr(n,vector<int>(11,0));
-      for(int i=0;i<pick.size();i++)
-      {
-        int player=pick[i][0];
-        int color=pick[i][1];
-        arr[player][color]++;
-      }
-      int ans=0;
-      for(int i=0;i<n;i++)
-      {
-        for(int j=0;j<=10;j++)
-        {
-            if(arr[i][j]>i)
-            {
-                ans++;
+        vector<unordered_map<int,int>>playerPicks(n);
+
+    // Count the number of balls of each color picked by each player
+    for (const auto& p : pick) {
+        int player = p[0];
+        int color = p[1];
+        playerPicks[player][color]++;
+    }
+    int winners = 0;
+    // Determine how many players win the game
+    for (int i = 0;i < n; i++) {
+        for (const auto& entry : playerPicks[i]) {
+            if (entry.second > i) {
+                winners++;
                 break;
             }
         }
-      }
-      return ans;
+    }
+    return winners;
     }
 };
