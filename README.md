@@ -6,6 +6,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/anushka209/test/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/anushka209/test/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -129,6 +130,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushka209/test/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anushka209/test/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka209/test/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
@@ -175,6 +177,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anushka209/test/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -235,6 +238,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
