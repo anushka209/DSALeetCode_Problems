@@ -103,6 +103,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushka209/test/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anushka209/test/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anushka209/test/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/anushka209/test/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anushka209/test/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anushka209/test/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anushka209/test/tree/master/0056-merge-intervals) |
@@ -320,6 +321,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/anushka209/test/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
