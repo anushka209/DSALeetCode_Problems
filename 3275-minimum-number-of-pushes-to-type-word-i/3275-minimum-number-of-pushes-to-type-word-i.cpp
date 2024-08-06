@@ -5,7 +5,7 @@ public:
         unordered_map<int,int>mpp;
 
         int assign_key=2;
-        for(auto& ch:word)
+        for(char &ch : word)
         {
             if(assign_key>9)
                 assign_key=2;
