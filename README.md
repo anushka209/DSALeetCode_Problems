@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -107,6 +108,7 @@
 | [0056-merge-intervals](https://github.com/anushka209/test/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/anushka209/test/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushka209/test/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anushka209/test/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anushka209/test/tree/master/0118-pascals-triangle) |
@@ -149,6 +151,7 @@
 | [0048-rotate-image](https://github.com/anushka209/test/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anushka209/test/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka209/test/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
@@ -317,5 +320,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
