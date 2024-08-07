@@ -7,6 +7,7 @@
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -23,6 +24,7 @@
 | [0118-pascals-triangle](https://github.com/anushka209/test/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka209/test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anushka209/test/tree/master/0152-maximum-product-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka209/test/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -118,6 +120,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka209/test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anushka209/test/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anushka209/test/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anushka209/test/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka209/test/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anushka209/test/tree/master/0162-find-peak-element) |
@@ -185,6 +188,7 @@
 | [0001-two-sum](https://github.com/anushka209/test/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anushka209/test/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anushka209/test/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
@@ -327,4 +331,12 @@
 | [0051-n-queens](https://github.com/anushka209/test/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
