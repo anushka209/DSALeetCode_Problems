@@ -9,6 +9,7 @@
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
@@ -189,6 +190,7 @@
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -347,6 +349,7 @@
 | [0051-n-queens](https://github.com/anushka209/test/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 ## Trie
 |  |
 | ------- |
