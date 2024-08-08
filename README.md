@@ -143,6 +143,7 @@
 | [0921-spiral-matrix-iii](https://github.com/anushka209/test/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/anushka209/test/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -172,6 +173,7 @@
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/anushka209/test/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/anushka209/test/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
@@ -289,6 +291,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/anushka209/test/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anushka209/test/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/anushka209/test/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/anushka209/test/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -372,4 +376,5 @@
 | [0130-surrounded-regions](https://github.com/anushka209/test/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
