@@ -28,7 +28,7 @@ private:
             }
         }
         sort(nums.begin(),nums.end());
-        for(int k=0;k<9;k++)         //check if all numbers are present or not
+        for(int k=0;k<9;k++)
         {
             if(nums[k]!=k+1)
                 return false;
@@ -50,10 +50,10 @@ private:
         }
 
         // Check diagonals
-        if (grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2] != sum) {   //left diagonal
+        if (grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2] != sum) {
             return false;
         }
-        if (grid[r][c + 2] + grid[r + 1][c + 1] + grid[r + 2][c] != sum) {    //right diagonal
+        if (grid[r][c + 2] + grid[r + 1][c + 1] + grid[r + 2][c] != sum) {
             return false;
         }
 
