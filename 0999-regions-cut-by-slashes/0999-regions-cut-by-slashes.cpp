@@ -1,56 +1,54 @@
 class Solution {
 public:
-  //3x3 blocks for each character ' ', '/' and '\\' respectively
-    vector<vector<int>> empty = {{0,0,0},{0,0,0},{0,0,0}};
-    vector<vector<int>> sb = {{0,0,1},{0,1,0},{1,0,0}};
-    vector<vector<int>> cb = {{1,0,0},{0,1,0},{0,0,1}};
-    //4 directions for dfs
-    vector<int> x = {1,0,-1,0};
-    vector<int> y = {0,1,0,-1};
-    //To Store our binary matrix
-    vector<vector<int>> mat;
-    //Normal DFS to find number of islands
-    void dfs(vector<vector<int>> &mat,int i,int j){
-        if(i < 0 || i >= mat.size() || j < 0 || j >= mat[0].size() || mat[i][j] == 1) return;
-        mat[i][j] = 1;
-        for(int k=0;k<4;k++){
-            int newi = i+x[k];
-            int newj = j+y[k];
-            dfs(mat,newi,newj);
-        }
-    }
+     void dfs(vector<vector<int>> &matrix,int r,int c)
+     {
+        if(r<0 || r>=matrix.size() || c<0 || c>=matrix[0].size() || matrix[r][c]==1)
+            return;
+        matrix[r][c]=1;     //mark visited
 
-    // To fill the our binary matrix with the blocks we made
-    void filling(vector<vector<int>> &arr,int i){
-        for(int k=0;k<3;k++){
-            mat[i].push_back(arr[0][k]); 
-            mat[i+1].push_back(arr[1][k]); 
-            mat[i+2].push_back(arr[2][k]);
-        }
-    }
+        //for all 4 directions
+        dfs(matrix,r+1,c);
+        dfs(matrix,r-1,c);
+        dfs(matrix,r,c+1);
+        dfs(matrix,r,c-1);
+     }
 
     int regionsBySlashes(vector<string>& grid) {
-         mat.resize(grid.size()*3);
-        int ind=0;
-        //Fill with appropriate blocks 
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[i].size();j++){
-                if(grid[i][j] == ' ') filling(empty,ind);
-                else if(grid[i][j] == '/') filling(sb,ind);
-                else filling(cb,ind);
+     int n=grid.size();
+     int m=grid[0].size();
+     int regions=0;
+     vector<vector<int>> matrix(n*3,vector<int>(m*3,0));
+     
+     for(int i=0;i<n;i++)
+     {
+        for(int j=0;j<m;j++)
+        {
+            if(grid[i][j]=='/')
+            {
+                matrix[i*3][j*3+2]=1;
+                matrix[i*3+1][j*3+1]=1;
+                matrix[i*3+2][j*3]=1;
             }
-            ind+=3;
+            else if(grid[i][j]=='\\')
+            {
+                matrix[i*3][j*3]=1;
+                matrix[i*3+1][j*3+1]=1;
+                matrix[i*3+2][j*3+2]=1;
+            }
         }
-        //Number of Islands
-        int ans =0;
-        for(int i=0;i<mat.size();i++){
-            for(int j=0;j<mat[0].size();j++){
-                if(mat[i][j] == 0){
-                    dfs(mat,i,j);
-                    ans++;
+     }
+        // apply concept of number of islands
+        for(int i=0;i<matrix.size();i++)
+        {
+            for(int j=0;j<matrix[0].size();j++)
+            {
+                if(matrix[i][j]==0)      // call dfs
+                {
+                    dfs(matrix,i,j);
+                    regions++;
                 }
             }
         }
-        return ans;
+        return regions;
     }
 };
