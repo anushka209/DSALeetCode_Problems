@@ -271,6 +271,7 @@
 | [0210-course-schedule-ii](https://github.com/anushka209/test/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/anushka209/test/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka209/test/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/anushka209/test/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/anushka209/test/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anushka209/test/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -352,6 +354,7 @@
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/anushka209/test/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/anushka209/test/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
@@ -403,6 +406,7 @@
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/anushka209/test/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anushka209/test/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
