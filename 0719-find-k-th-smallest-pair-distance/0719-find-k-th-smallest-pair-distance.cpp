@@ -1,29 +1,30 @@
 class Solution {
 public:
-  bool issmallpairs(const std::vector<int>& nums, int k, int mid)
-  {
-        int count = 0, left = 0;
-        for (int right = 1; right < nums.size(); right++)
+    bool isSmallpairs(vector<int>& nums, int k,int mid)
+    {
+        int count=0,l=0;
+        for(int r=0;r<nums.size();r++)
         {
-            while (nums[right] - nums[left] > mid) left++;
-            count += right - left;
+            while(nums[r]-nums[l]>mid)
+                l++;
+            count+=r-l;
         }
-        return (count >= k);
-  }
+        return (count>=k);
+    }
 
     int smallestDistancePair(vector<int>& nums, int k)
     {
-        sort(nums.begin(), nums.end());
-        int left = 0;
-        int right = nums[nums.size() - 1] - nums[0];
-        
-        while (left < right) {
-            int mid = (left + right) / 2; 
-            if (issmallpairs(nums, k, mid))
-                right = mid;
-            else
-                left = mid + 1;
+       sort(nums.begin(),nums.end());
+       int n=nums.size();
+       int left=0,right=nums[n-1]-nums[0];
+       while(left < right)
+        {
+            int mid=(left+right)/2;
+            if(isSmallpairs(nums,k,mid))
+                right=mid;
+            else 
+                left=mid+1;
         }
-        return left;
+     return left;
     }
 };
