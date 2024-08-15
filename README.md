@@ -147,6 +147,7 @@
 | [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/anushka209/test/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/anushka209/test/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
@@ -251,6 +252,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka209/test/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/anushka209/test/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anushka209/test/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/anushka209/test/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
