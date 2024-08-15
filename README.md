@@ -28,6 +28,7 @@
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anushka209/test/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/anushka209/test/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -137,6 +139,7 @@
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anushka209/test/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka209/test/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +255,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka209/test/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anushka209/test/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka209/test/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -341,6 +345,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
