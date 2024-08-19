@@ -1,19 +1,15 @@
 class Solution {
 public:
     int minSteps(int n) {
-         if (n == 1) return 0;
-        
-        int steps = 0;
-        int factor = 2;
-        
-        while (n > 1) {
-            while (n % factor == 0) {
-                steps += factor;
-                n /= factor;
-            }
-            factor++;
+      int ops=0;
+      for(int fac=2;fac<=n;fac++)
+      {
+        while(n % fac ==0)
+        {
+         ops+=fac;
+         n=n/fac;
         }
-        
-        return steps;
+      }
+      return ops;
     }
 };
