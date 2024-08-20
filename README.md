@@ -14,6 +14,7 @@
 | [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
+| [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
@@ -525,4 +526,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
