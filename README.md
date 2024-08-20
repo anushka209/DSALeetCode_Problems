@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anushka209/test/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/anushka209/test/tree/master/0127-word-ladder) |
@@ -468,6 +469,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anushka209/test/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 ## Memoization
 |  |
