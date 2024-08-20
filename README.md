@@ -9,6 +9,7 @@
 | [0127-word-ladder](https://github.com/anushka209/test/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/anushka209/test/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
@@ -226,6 +227,7 @@
 | [0031-next-permutation](https://github.com/anushka209/test/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anushka209/test/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anushka209/test/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/anushka209/test/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
