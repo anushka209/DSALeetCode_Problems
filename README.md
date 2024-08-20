@@ -11,6 +11,7 @@
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka209/test/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
@@ -260,6 +261,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/anushka209/test/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
