@@ -12,6 +12,7 @@
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka209/test/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
@@ -264,6 +265,7 @@
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
@@ -315,6 +317,7 @@
 | [0088-merge-sorted-array](https://github.com/anushka209/test/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
