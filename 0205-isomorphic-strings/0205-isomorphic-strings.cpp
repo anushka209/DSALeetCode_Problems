@@ -4,7 +4,6 @@ public:
      unordered_map<char,char>mp1;
      unordered_map<char,char>mp2;
      int n=s.size();
-
      for(int i=0;i<n;i++)
      {
      char ch1=s[i];
