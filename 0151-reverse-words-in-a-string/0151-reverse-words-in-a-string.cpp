@@ -14,11 +14,11 @@ public:
         while(j<n && s[j]!=' ')
             j++;
         string sub=s.substr(i,j-i);
-        i=j+1;
        if(ans.size()==0)
         ans=sub;
         else
             ans=sub+" "+ans;
+        i=j+1;
        }
        return ans;
     }
