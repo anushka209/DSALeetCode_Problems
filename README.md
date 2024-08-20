@@ -34,6 +34,7 @@
 | [0650-2-keys-keyboard](https://github.com/anushka209/test/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anushka209/test/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/anushka209/test/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -167,6 +168,7 @@
 | [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anushka209/test/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka209/test/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anushka209/test/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -239,6 +241,7 @@
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [0650-2-keys-keyboard](https://github.com/anushka209/test/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -369,6 +372,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -506,4 +510,8 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/anushka209/test/tree/master/1203-print-in-order) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
