@@ -14,6 +14,7 @@
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/anushka209/test/tree/master/2727-number-of-senior-citizens) |
@@ -49,6 +50,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/anushka209/test/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka209/test/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -245,6 +247,7 @@
 | [0650-2-keys-keyboard](https://github.com/anushka209/test/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
