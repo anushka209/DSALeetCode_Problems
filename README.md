@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
+| [0664-strange-printer](https://github.com/anushka209/test/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -39,6 +40,7 @@
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/anushka209/test/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/anushka209/test/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/anushka209/test/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/anushka209/test/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
