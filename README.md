@@ -566,4 +566,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anushka209/test/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
