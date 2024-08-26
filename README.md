@@ -475,6 +475,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka209/test/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -518,6 +519,7 @@
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anushka209/test/tree/master/0744-network-delay-time) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/anushka209/test/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
@@ -533,6 +535,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
