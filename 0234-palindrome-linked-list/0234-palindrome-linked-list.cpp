@@ -12,15 +12,31 @@
 class Solution {
 public:
 
-ListNode* reverse(ListNode* head)      //recursive reverse function
+// ListNode* reverse(ListNode* head)      //recursive reverse function
+// {
+//     if(head==NULL || head->next==NULL)
+//         return head;
+//     ListNode* newHead=reverse(head->next);
+//     ListNode* front=head->next;
+//     front->next=head;
+//     head->next=nullptr;
+//     return newHead;
+// }
+
+ListNode* reverse(ListNode* head)   //iterative reverse function
 {
-    if(head==NULL || head->next==NULL)
+    if(head==NULL ||head->next==NULL)
         return head;
-    ListNode* newHead=reverse(head->next);
-    ListNode* front=head->next;
-    front->next=head;
-    head->next=nullptr;
-    return newHead;
+    ListNode* temp=head;
+    ListNode* prev=NULL;
+    while(temp!=NULL)
+    {
+        ListNode* front=temp->next;
+        temp->next=prev;
+        prev=temp;
+        temp=front;
+    }
+    return prev;
 }
 
     bool isPalindrome(ListNode* head) {
