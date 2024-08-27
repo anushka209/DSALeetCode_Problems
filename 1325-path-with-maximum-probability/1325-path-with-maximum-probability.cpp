@@ -1,33 +1,39 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
-          vector<double> dist(n, 0.0);
-        dist[start_node] = 1.0;
-        
-        // Relax all edges up to n-1 times (standard Bellman-Ford)
-        for (int i = 0; i < n - 1; i++) {
-            bool updated = false;
-            for (int j = 0; j < edges.size(); j++) {
-                int u = edges[j][0];
-                int v = edges[j][1];
-                double prob = succProb[j];
-                
-                // Relax the edge u -> v
-                if (dist[u] * prob > dist[v]) {
-                    dist[v] = dist[u] * prob;
-                    updated = true;
-                }
-                
-                // Since the graph is undirected, also relax v -> u
-                if (dist[v] * prob > dist[u]) {
-                    dist[u] = dist[v] * prob;
-                    updated = true;
-                }
+    typedef pair<double,int> P;   // probability , node value
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end) {
+       unordered_map<int,vector<pair<int,double>>>adj;
+       vector<double>res(n,0);
+       for(int i=0;i<edges.size();i++)    // make adj
+       {
+        int u=edges[i][0];
+        int v=edges[i][1];
+        double prob=succProb[i];
+        adj[u].push_back({v,prob});
+        adj[v].push_back({u,prob});
+       }
+
+       priority_queue<P> pq; //max heap
+       res[start]=1; //probability to reach start from start is 100% = probability of 1
+       pq.push({1.0,start});
+
+       while(!pq.empty())
+       {
+        int currNode = pq.top().second;
+        double currProb=pq.top().first;
+        pq.pop();
+
+        for(auto &temp : adj[currNode])
+        {
+            double adjProb=temp.second;
+            int adjNode=temp.first;
+            if(res[adjNode]<currProb*adjProb)
+            {
+                res[adjNode]=currProb*adjProb;
+                pq.push({res[adjNode],adjNode});
             }
-            // Early termination if no update was made in this round
-            if (!updated) break;
         }
-        
-        return dist[end_node];
+       }
+     return res[end];
     }
 };
