@@ -156,6 +156,7 @@
 | [0079-word-search](https://github.com/anushka209/test/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushka209/test/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anushka209/test/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka209/test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anushka209/test/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka209/test/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anushka209/test/tree/master/0128-longest-consecutive-sequence) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushka209/test/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anushka209/test/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka209/test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka209/test/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
@@ -564,6 +566,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka209/test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -574,10 +577,12 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka209/test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka209/test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
