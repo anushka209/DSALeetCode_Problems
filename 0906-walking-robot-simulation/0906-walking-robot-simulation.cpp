@@ -1,24 +1,38 @@
 class Solution {
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-           unordered_set<string> obs;
-        for(int i=0;i<obstacles.size();i++) obs.insert(to_string(obstacles[i][0])+"#"+to_string(obstacles[i][1]));
-        int res=0, dir=0, x=0, y=0;
-        vector<vector<int>> ds={{0,1}, {1,0}, {0,-1}, {-1,0}};
-        for(int i=0;i<commands.size();i++) {
-            if(commands[i]==-2) dir--;
-            else if(commands[i]==-1) dir++;
-            else {
-                for(int j=0;j<commands[i];j++) {
-                    string pos=to_string(x+ds[dir][0])+"#"+to_string(y+ds[dir][1]);
-                    if(obs.find(pos)!=obs.end()) break;
-                    x+=ds[dir][0], y+=ds[dir][1];
-                }
-                res=max(res, x*x+y*y);
-            }
-            if(dir==-1) dir=3;
-            if(dir==4) dir=0;
+        unordered_set<string>st;
+        for(vector<int>& obs: obstacles)
+        {
+            string key=to_string(obs[0]) + "_" + to_string(obs[1]);
+            st.insert(key);
         }
-        return res;
+
+        int x=0,y=0,maxDis=0;
+        //pointing to north
+        pair<int,int> dir={0,1};  //for north
+
+        for(int i=0;i<commands.size();i++)
+        {
+            if(commands[i]==-2) //left 90 deg
+                dir={-dir.second,dir.first};
+            else if(commands[i]==-1)  //right 90 deg
+                dir={dir.second,-dir.first};
+            else  //move to direction step by step
+            {
+                for(int step=0;step<commands[i];step++) 
+                {
+                    int newX=x+dir.first;
+                    int newY=y+dir.second;
+                    string newkey=to_string(newX) + "_" + to_string(newY);
+                    if(st.find(newkey)!=st.end())
+                        break;
+                    x=newX;
+                    y=newY;
+                }
+            }
+            maxDis=max(maxDis,x*x+y*y);
+        }
+        return maxDis;
     }
 };
