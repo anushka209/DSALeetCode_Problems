@@ -221,6 +221,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anushka209/test/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka209/test/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/anushka209/test/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/anushka209/test/tree/master/2727-number-of-senior-citizens) |
@@ -252,6 +253,7 @@
 | [2035-count-sub-islands](https://github.com/anushka209/test/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka209/test/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anushka209/test/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/anushka209/test/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
 ## Two Pointers
 |  |
@@ -435,6 +437,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/anushka209/test/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/anushka209/test/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anushka209/test/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/anushka209/test/tree/master/2411-spiral-matrix-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -640,5 +643,6 @@
 | [0725-split-linked-list-in-parts](https://github.com/anushka209/test/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/anushka209/test/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/anushka209/test/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka209/test/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
