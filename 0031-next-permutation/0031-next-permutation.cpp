@@ -18,7 +18,7 @@ public:
         reverse(nums.begin(),nums.end());
             return;
       }
-      for(int i=n-1;i>idx;i--)
+      for(int i=n-1;i>idx;i--)       // Find the next greater element and swap it with arr[ind]:
       {
         if(nums[i]>nums[idx])
         {
