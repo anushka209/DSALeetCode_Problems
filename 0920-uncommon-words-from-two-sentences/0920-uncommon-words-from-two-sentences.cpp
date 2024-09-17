@@ -1,22 +1,26 @@
 class Solution {
 public:
-     map<string,int>mp;
-    
-    void stringstreeam(string s)
-    {
-        stringstream ss(s);
-        string word;
-        while(ss>>word) mp[word]++;
-    }
     vector<string> uncommonFromSentences(string s1, string s2) {
-           stringstreeam(s1);
-        stringstreeam(s2);
-
+        unordered_map<string,int>mpp;
         vector<string>ans;
-        for(auto x:mp)
-            if(x.second==1) 
-                ans.push_back(x.first);
-
+        string temp=s1+' '+s2;
+        string p="";
+        for(int i=0;i<temp.size();i++)
+        {
+            if(temp[i]==' ')
+            {
+                mpp[p]++;
+                p="";
+            }
+            else
+                p+=temp[i];
+        }
+        mpp[p]++;
+        for(auto &it:mpp)
+        {
+            if(it.second==1)
+                ans.push_back(it.first);
+        }
         return ans;
     }
 };
