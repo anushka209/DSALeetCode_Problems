@@ -78,6 +78,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anushka209/test/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anushka209/test/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/anushka209/test/tree/master/0206-reverse-linked-list) |
@@ -288,6 +289,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anushka209/test/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anushka209/test/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anushka209/test/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anushka209/test/tree/master/0048-rotate-image) |
@@ -656,6 +658,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anushka209/test/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anushka209/test/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anushka209/test/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anushka209/test/tree/master/0141-linked-list-cycle) |
