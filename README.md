@@ -567,6 +567,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/anushka209/test/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anushka209/test/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
@@ -640,6 +641,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushka209/test/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anushka209/test/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -703,4 +705,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushka209/test/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anushka209/test/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
