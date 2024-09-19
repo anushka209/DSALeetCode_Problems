@@ -191,6 +191,7 @@
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/anushka209/test/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anushka209/test/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/anushka209/test/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka209/test/tree/master/0540-single-element-in-a-sorted-array) |
@@ -341,6 +342,7 @@
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/anushka209/test/tree/master/0906-walking-robot-simulation) |
@@ -573,6 +575,7 @@
 | [0225-implement-stack-using-queues](https://github.com/anushka209/test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka209/test/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
@@ -715,5 +718,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
