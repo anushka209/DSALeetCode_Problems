@@ -18,6 +18,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anushka209/test/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anushka209/test/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
@@ -53,6 +54,7 @@
 | [0131-palindrome-partitioning](https://github.com/anushka209/test/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/anushka209/test/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/anushka209/test/tree/master/0542-01-matrix) |
@@ -86,6 +88,7 @@
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/anushka209/test/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 ## Database
 |  |
@@ -301,6 +304,7 @@
 | [0048-rotate-image](https://github.com/anushka209/test/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anushka209/test/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
@@ -597,6 +601,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
