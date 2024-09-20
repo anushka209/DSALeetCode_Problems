@@ -19,6 +19,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/anushka209/test/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anushka209/test/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/anushka209/test/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/anushka209/test/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
@@ -684,6 +685,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anushka209/test/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/anushka209/test/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
 ## Linked List
 |  |
@@ -725,4 +727,12 @@
 | [0042-trapping-rain-water](https://github.com/anushka209/test/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anushka209/test/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anushka209/test/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
