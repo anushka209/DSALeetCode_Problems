@@ -24,6 +24,7 @@
 | [0242-valid-anagram](https://github.com/anushka209/test/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anushka209/test/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/anushka209/test/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/anushka209/test/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/anushka209/test/tree/master/0564-find-the-closest-palindrome) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/anushka209/test/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/anushka209/test/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/anushka209/test/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
@@ -585,6 +587,7 @@
 | [0225-implement-stack-using-queues](https://github.com/anushka209/test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka209/test/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/anushka209/test/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anushka209/test/tree/master/0735-asteroid-collision) |
@@ -735,6 +738,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushka209/test/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/anushka209/test/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka209/test/tree/master/0943-sum-of-subarray-minimums) |
