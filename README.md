@@ -612,6 +612,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushka209/test/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/anushka209/test/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/anushka209/test/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -624,6 +625,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/anushka209/test/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anushka209/test/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/anushka209/test/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/anushka209/test/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anushka209/test/tree/master/0744-network-delay-time) |
