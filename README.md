@@ -213,6 +213,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anushka209/test/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anushka209/test/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
@@ -603,6 +604,7 @@
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anushka209/test/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anushka209/test/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/anushka209/test/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka209/test/tree/master/0943-sum-of-subarray-minimums) |
@@ -762,6 +764,7 @@
 | [0402-remove-k-digits](https://github.com/anushka209/test/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anushka209/test/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/anushka209/test/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anushka209/test/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka209/test/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/anushka209/test/tree/master/2227-sum-of-subarray-ranges) |
