@@ -2,9 +2,9 @@ class LRUCache {
 public:
  class Node{
     public:
-       int k,v;
-       Node* next;
-       Node* prev;
+        int k,v;
+        Node *prev;
+        Node* next;
 
         Node(int k1,int v1)
         {
@@ -14,54 +14,54 @@ public:
  };
     Node* head=new Node(-1,-1);
     Node* tail=new Node(-1,-1);
-    int cap;
+    int capc;
     unordered_map<int,Node*>mpp;
-
+ 
     LRUCache(int capacity) {
-        cap=capacity;
+         capc=capacity;
         head->next=tail;
         tail->prev=head;
     }
 
       void addnode(Node* newNode)
     {
-       Node* temp=head->next;
-       newNode->next=temp;
-       newNode->prev=head;
-       head->next=newNode;
-       temp->prev=newNode;
+        Node* temp=head->next;
+        newNode->next=temp;
+        newNode->prev=head;
+        head->next=newNode;
+        temp->prev=newNode;
     }
 
     void deletenode(Node* delNode)
     {
-       Node* delprev=delNode->prev;
-       Node* delnext=delNode->next;
-       delprev->next=delnext;
-       delnext->prev=delprev;
+        Node* delprev=delNode->prev;
+        Node* delnext=delNode->next;
+        delprev->next=delnext;
+        delnext->prev=delprev;
     }
-
+    
     int get(int key) {
-      if(mpp.find(key)!=mpp.end())
-      {
-        Node* resnode=mpp[key];
-        int res=resnode->v;
-        mpp.erase(key);
-        deletenode(resnode);
-        addnode(resnode);
-        mpp[key]=head->next;
+        if(mpp.find(key)!=mpp.end())
+        {
+            Node* resnode=mpp[key];
+            int res=resnode->v;
+            mpp.erase(key);
+            deletenode(resnode);
+            addnode(resnode);
+            mpp[key]=head->next;
         return res;
-      }
-      return -1;
+        }
+        return -1;
     }
     
     void put(int key, int value) {
-        if(mpp.find(key)!=mpp.end())
+         if(mpp.find(key)!=mpp.end())
         {
             Node* exNode=mpp[key];
             mpp.erase(key);
             deletenode(exNode);
         }
-        if(cap==mpp.size())
+        if(mpp.size()==capc)
         {
             mpp.erase(tail->prev->k);
             deletenode(tail->prev);
