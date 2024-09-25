@@ -35,6 +35,7 @@
 | [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anushka209/test/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anushka209/test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka209/test/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka209/test/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -383,6 +384,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anushka209/test/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anushka209/test/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anushka209/test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka209/test/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anushka209/test/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -650,6 +652,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/anushka209/test/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anushka209/test/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anushka209/test/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/anushka209/test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anushka209/test/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
 |  |
