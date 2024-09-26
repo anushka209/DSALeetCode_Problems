@@ -11,9 +11,10 @@
  */
 class Solution {
 public:
-    void postorder(TreeNode* root, vector<int>& res)
+    void postorder(TreeNode* root,vector<int>& res)
     {
-        if(root==NULL) return;
+        if(root==NULL)
+            return;
         postorder(root->left,res);
         postorder(root->right,res);
         res.push_back(root->val);
@@ -23,6 +24,7 @@ public:
         vector<int>res;
         postorder(root,res);
         return res;
+
         // ---------------------------------------------
         // if(root==NULL) return res;
         // stack<TreeNode*>st1,st2;
