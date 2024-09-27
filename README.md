@@ -390,6 +390,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/anushka209/test/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anushka209/test/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anushka209/test/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anushka209/test/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anushka209/test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -462,6 +463,7 @@
 | [0539-minimum-time-difference](https://github.com/anushka209/test/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/anushka209/test/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anushka209/test/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anushka209/test/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -615,6 +617,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/anushka209/test/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anushka209/test/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -728,6 +731,7 @@
 | [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anushka209/test/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/anushka209/test/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anushka209/test/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -753,6 +757,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anushka209/test/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
@@ -785,6 +790,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anushka209/test/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
