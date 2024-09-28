@@ -224,6 +224,7 @@
 | [0735-asteroid-collision](https://github.com/anushka209/test/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anushka209/test/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/anushka209/test/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/anushka209/test/tree/master/0906-walking-robot-simulation) |
@@ -775,6 +776,7 @@
 | [0729-my-calendar-i](https://github.com/anushka209/test/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anushka209/test/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/anushka209/test/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/anushka209/test/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
@@ -836,6 +838,7 @@
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anushka209/test/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/anushka209/test/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/anushka209/test/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/anushka209/test/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/anushka209/test/tree/master/2411-spiral-matrix-iv) |
@@ -855,6 +858,7 @@
 | [0225-implement-stack-using-queues](https://github.com/anushka209/test/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka209/test/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/anushka209/test/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/anushka209/test/tree/master/0859-design-circular-deque) |
 ## Monotonic Stack
 |  |
 | ------- |
