@@ -1,84 +1,62 @@
 class MyCircularDeque {
-    vector<int>q;
-    int front,back,len,cap;
+    deque<int>dq;
+    int size;
 public:
     MyCircularDeque(int k) {
-        q=vector<int>(k,-1);
-        front=0;
-        back=0;
-        len=0;      // Keeps track of the current number of elements
-        cap=k;
+        dq=deque<int>();
+        size=k;
     }
     
     bool insertFront(int value) {
-        if(isFull())
-            return false;
-        if(front==0)
-            front=cap-1;
-        else
-            front--;
-        q[front]=value;
-        len++;
-        return true;
+        if(dq.size()<size)
+        {
+            dq.push_front(value);
+            return true;
+        }
+        return false;
     }
     
     bool insertLast(int value) {
-       if(isFull())
-         return false;
-        q[back]=value;
-        if(back==cap-1)
-            back=0;
-        else    
-            back++;
-        len++;
-        return true;
+        if(dq.size()<size)
+        {
+            dq.push_back(value);
+            return true;
+        }
+        return false;
     }
     
     bool deleteFront() {
-        if(isEmpty())
+        if(dq.empty())
             return false;
-        q[front]=-1;
-        if(front==cap-1)
-            front=0;
-        else
-            front++;
-        len--;
+        dq.pop_front();
         return true;
     }
     
     bool deleteLast() {
-        if(isEmpty())
+        if(dq.empty())
             return false;
-        if(back==0)
-            back=cap-1;
-        else
-            back--;
-        q[back]=-1;
-        len--;
+        dq.pop_back();
         return true;
     }
     
     int getFront() {
-        if(isEmpty())
+        if(dq.empty())
             return -1;
-        return q[front];
+        return dq.front();
     }
     
     int getRear() {
-        if(isEmpty())
+        if(dq.empty())
             return -1;
-        if(back==0)
-            return q[cap-1];     // Wrap around to the last valid element
-        else
-            return q[back-1];
+        return dq.back();
     }
     
     bool isEmpty() {
-        return len==0;
+        return dq.empty();
     }
     
     bool isFull() {
-        return len==cap;
+        return dq.size()==size;
     }
 };
 
