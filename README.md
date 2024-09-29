@@ -783,6 +783,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anushka209/test/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anushka209/test/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/anushka209/test/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anushka209/test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
@@ -803,6 +804,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushka209/test/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anushka209/test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -826,6 +828,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka209/test/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushka209/test/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anushka209/test/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/anushka209/test/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/anushka209/test/tree/master/1484-linked-list-in-binary-tree) |
