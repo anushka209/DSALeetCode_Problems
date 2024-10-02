@@ -89,6 +89,7 @@
 | [0179-largest-number](https://github.com/anushka209/test/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/anushka209/test/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/anushka209/test/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -219,6 +220,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka209/test/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anushka209/test/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/anushka209/test/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/anushka209/test/tree/master/0729-my-calendar-i) |
@@ -395,6 +397,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/anushka209/test/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anushka209/test/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -477,6 +480,7 @@
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/anushka209/test/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -531,6 +535,7 @@
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anushka209/test/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anushka209/test/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anushka209/test/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -587,6 +592,7 @@
 | [0239-sliding-window-maximum](https://github.com/anushka209/test/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/anushka209/test/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushka209/test/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
