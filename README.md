@@ -91,6 +91,7 @@
 | [0410-split-array-largest-sum](https://github.com/anushka209/test/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/anushka209/test/tree/master/0624-maximum-distance-in-arrays) |
+| [0876-hand-of-straights](https://github.com/anushka209/test/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/anushka209/test/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
@@ -231,6 +232,7 @@
 | [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/anushka209/test/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
+| [0876-hand-of-straights](https://github.com/anushka209/test/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/anushka209/test/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/anushka209/test/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/anushka209/test/tree/master/0907-koko-eating-bananas) |
@@ -399,6 +401,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
+| [0876-hand-of-straights](https://github.com/anushka209/test/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/anushka209/test/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anushka209/test/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/anushka209/test/tree/master/0966-binary-subarrays-with-sum) |
@@ -482,6 +485,7 @@
 | [0539-minimum-time-difference](https://github.com/anushka209/test/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0876-hand-of-straights](https://github.com/anushka209/test/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka209/test/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/anushka209/test/tree/master/1256-rank-transform-of-an-array) |
