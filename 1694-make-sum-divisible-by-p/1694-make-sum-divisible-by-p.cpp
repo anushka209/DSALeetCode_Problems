@@ -2,21 +2,22 @@ class Solution {
 public:
     int findSmallestSubarray(vector<int>& nums,int p,int rem)
     {
-        long long prefixSum=0;
-        int minlen=nums.size();
-        unordered_map<int,int>prefixMap;
-        prefixMap[0]=-1;
-        for(int i=0;i<nums.size();i++)
+        int n=nums.size();
+        unordered_map<int,int>mpp;
+        int curr=0;
+        mpp[0]=-1;
+        int ans=n;
+        for(int j=0;j<n;j++)
         {
-            prefixSum+=nums[i];
-            int targetRem=(prefixSum % p- rem + p) % p;
-            if(prefixMap.find(targetRem)!=prefixMap.end())
+            curr=(curr+nums[j])%p;
+            int remain=(curr-rem + p)%p;
+            if(mpp.find(remain)!=mpp.end())
             {
-                minlen=min(minlen, i-prefixMap[targetRem]);
+                ans=min(ans,j-mpp[remain]);
             }
-            prefixMap[prefixSum % p]=i;
+            mpp[curr]=j;
         }
-        return minlen < nums.size() ? minlen : -1;
+        return ans==n ? -1 : ans;
     }
 
     int minSubarray(vector<int>& nums, int p) {
