@@ -112,6 +112,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/anushka209/test/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/anushka209/test/tree/master/2050-count-good-numbers) |
 ## Database
 |  |
 | ------- |
@@ -375,6 +376,7 @@
 | [1240-stone-game-ii](https://github.com/anushka209/test/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anushka209/test/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/anushka209/test/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/anushka209/test/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka209/test/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
