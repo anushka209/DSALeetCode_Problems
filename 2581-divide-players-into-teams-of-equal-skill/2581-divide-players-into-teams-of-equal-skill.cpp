@@ -1,28 +1,17 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
+        int n=skill.size();
         sort(skill.begin(),skill.end());
-        int l=0,r=skill.size()-1;
-        long long sum=skill[l]+skill[r];
-        l++;
-        r--;
-        while(l<=r)
+        int sum=skill[0]+skill[n-1];
+        long long chemSum=0;
+
+        for(int i=0;i<n/2;i++)
         {
-            long long res=skill[l]+skill[r];
-            if(res!=sum)
+            if(skill[i]+skill[n-i-1]!=sum)
                 return -1;
-            l++;
-            r--;
+            chemSum+=(long long)skill[i]*skill[n-i-1];
         }
-        long long ans=0;
-        l=0,r=skill.size()-1;
-        while(l<=r)
-        {
-            long long prod=skill[l]*skill[r];
-            l++;
-            r--;
-            ans+=prod;
-        }
-        return ans;
+        return chemSum;
     }
 };
