@@ -3,8 +3,8 @@ public:
     bool find_next(int i,int j,int m,int n,int idx,vector<vector<char>>& board,string &word)
     {
         // if index reaches at the end that means we have found the word
-       if(idx==word.size())
-          return true;
+         if(idx==word.size())
+            return true;
 
      // Checking the boundaries if the character at which we are placed is not the required character
         if(i<0 || j<0 || i>=m || j>=n || board[i][j]=='$')
@@ -16,13 +16,13 @@ public:
         char temp=board[i][j];
         board[i][j]='$';
 
-        bool top=find_next(i-1,j,m,n,idx+1,board,word);    //for top
-        bool bottom=find_next(i+1,j,m,n,idx+1,board,word);    //for bottom
-        bool left=find_next(i,j-1,m,n,idx+1,board,word);    //for left
-        bool right=find_next(i,j+1,m,n,idx+1,board,word);    //for right
+        bool top=find_next(i+1,j,m,n,idx+1,board,word);    // for top
+        bool bottom=find_next(i-1,j,m,n,idx+1,board,word);   // for bottom
+        bool left=find_next(i,j-1,m,n,idx+1,board,word);     // for left
+        bool right=find_next(i,j+1,m,n,idx+1,board,word);    // right
 
-        board[i][j]=temp;          // undo change for backtracking
-        return top||bottom||left||right;
+        board[i][j]=temp;                  // undo change for backtracking
+        return top || bottom || left || right;
     }
 
     bool exist(vector<vector<char>>& board, string word) {
