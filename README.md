@@ -34,6 +34,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/anushka209/test/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/anushka209/test/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/anushka209/test/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anushka209/test/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/anushka209/test/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/anushka209/test/tree/master/0812-rotate-string) |
@@ -356,6 +357,7 @@
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anushka209/test/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/anushka209/test/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anushka209/test/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/anushka209/test/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anushka209/test/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -419,6 +421,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anushka209/test/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anushka209/test/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka209/test/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anushka209/test/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/anushka209/test/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/anushka209/test/tree/master/0876-hand-of-straights) |
@@ -744,6 +747,7 @@
 | [0076-minimum-window-substring](https://github.com/anushka209/test/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/anushka209/test/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka209/test/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/anushka209/test/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/anushka209/test/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anushka209/test/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/anushka209/test/tree/master/1046-max-consecutive-ones-iii) |
