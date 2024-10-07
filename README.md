@@ -114,6 +114,7 @@
 | [0044-wildcard-matching](https://github.com/anushka209/test/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/anushka209/test/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anushka209/test/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anushka209/test/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anushka209/test/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
@@ -377,6 +378,7 @@
 | [0050-powx-n](https://github.com/anushka209/test/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anushka209/test/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anushka209/test/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
@@ -491,6 +493,7 @@
 | [0090-subsets-ii](https://github.com/anushka209/test/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anushka209/test/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/anushka209/test/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/anushka209/test/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushka209/test/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/anushka209/test/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anushka209/test/tree/master/1435-xor-queries-of-a-subarray) |
