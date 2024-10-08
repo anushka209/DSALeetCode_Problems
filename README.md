@@ -223,6 +223,7 @@
 | [0169-majority-element](https://github.com/anushka209/test/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anushka209/test/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anushka209/test/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka209/test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anushka209/test/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anushka209/test/tree/master/0229-majority-element-ii) |
@@ -382,6 +383,7 @@
 | [0050-powx-n](https://github.com/anushka209/test/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anushka209/test/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anushka209/test/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anushka209/test/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anushka209/test/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anushka209/test/tree/master/0264-ugly-number-ii) |
@@ -986,6 +988,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anushka209/test/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka209/test/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -1037,4 +1040,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka209/test/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anushka209/test/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
