@@ -14,45 +14,44 @@ class Solution {
     //     solve(nums,output,index+1,ans);
     // }
 
-    void find(int i,int n,vector<int>& nums,vector<int>& res,vector<vector<int>>& ans)
-    {
-        if(i>=n)
-        {
-            ans.push_back(res);
-            return;
-        }
-        res.push_back(nums[i]);
-        find(i+1,n,nums,res,ans);
+    // void find(int i,int n,vector<int>& nums,vector<int>& res,vector<vector<int>>& ans)
+    // {
+    //     if(i>=n)
+    //     {
+    //         ans.push_back(res);
+    //         return;
+    //     }
+    //     res.push_back(nums[i]);
+    //     find(i+1,n,nums,res,ans);
 
-        res.pop_back();             // backtracking
-        find(i+1,n,nums,res,ans);
-    }
+    //     res.pop_back();             // backtracking
+    //     find(i+1,n,nums,res,ans);
+    // }
 
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>ans;
-        vector<int>res;
-        // vector<int>output;
-        // int index=0;
-        // solve(nums,output,index,ans);
-        // return ans;
+        //vector<int>res;
+            // vector<int>output;
+            // int index=0;
+            // solve(nums,output,index,ans);
+            // return ans;
 
         int n=nums.size();
-
-        // int subset=1<<n;
-        // for(int i=0;i<subset;i++)
-        // {
-        //     vector<int>s;
-        //     for(int j=0;j<n;j++)
-        //     {
-        //         if(i & (1<<j))
-        //             s.push_back(nums[j]);
-        //     }
-        //     ans.push_back(s);
-        // } 
-        // return ans;
-
-       find(0,n,nums,res,ans);
-       return ans;
+        int subset=(1<<n);
+        for(int i=0;i<subset;i++)
+        {
+            vector<int>res;
+            for(int j=0;j<n;j++)
+            {
+                if(i & (1<<j))      //check if ith bit is set or not
+                    res.push_back(nums[j]);
+            }
+            ans.push_back(res);
+        }
+        return ans;
+      
+    //    find(0,n,nums,res,ans);
+    //    return ans;
     }  
 };
