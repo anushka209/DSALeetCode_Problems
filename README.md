@@ -275,6 +275,7 @@
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/anushka209/test/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/anushka209/test/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anushka209/test/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/anushka209/test/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anushka209/test/tree/master/1046-max-consecutive-ones-iii) |
@@ -756,6 +757,7 @@
 | [0937-online-stock-span](https://github.com/anushka209/test/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka209/test/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anushka209/test/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/anushka209/test/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushka209/test/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anushka209/test/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1032,6 +1034,7 @@
 | [0739-daily-temperatures](https://github.com/anushka209/test/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anushka209/test/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/anushka209/test/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/anushka209/test/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushka209/test/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/anushka209/test/tree/master/2227-sum-of-subarray-ranges) |
 ## Rolling Hash
