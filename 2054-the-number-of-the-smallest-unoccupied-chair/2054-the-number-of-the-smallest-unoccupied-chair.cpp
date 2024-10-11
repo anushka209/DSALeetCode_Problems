@@ -2,43 +2,40 @@ class Solution {
 public:
     int smallestChair(vector<vector<int>>& times, int targetFriend) {
         int n=times.size();
-        vector<pair<int,int>>arrival;
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> occupied;  // {deptTime,chair no}
+        priority_queue<int, vector<int>, greater<int>> free;       // min index chair available
+
+        int targetArrival=times[targetFriend][0];
+        int chairNo=0;
+        sort(times.begin(),times.end());    // based on arrival time
+
         for(int i=0;i<n;i++)
         {
-            arrival.push_back({times[i][0],i});
+            int arr=times[i][0];
+            int dept=times[i][1];
+
+            while(!occupied.empty() && occupied.top().first<=arr)
+            {
+                free.push(occupied.top().second);
+                occupied.pop();
+            }
+
+            if(free.empty())       // no free chairs available
+            {
+                occupied.push({dept,chairNo});
+                if(arr==targetArrival)
+                    return chairNo;
+                chairNo++;
+            }
+            else
+            {
+                int leastChair=free.top();
+                free.pop();
+                if(arr==targetArrival)
+                    return leastChair;
+            occupied.push({dept,leastChair});
+            }
         }
-        sort(arrival.begin(),arrival.end());
-
-        // min heap to track available chairs
-        priority_queue<int, vector<int>, greater<int>> available_chairs;
-        for(int i=0;i<n;i++)
-        {
-            available_chairs.push(i);
-        }
-
-        // priority queue to track when chairs are freed
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> leaveQueue;
-
-        for(auto &arr : arrival)
-        {
-            int arrTime=arr.first;
-            int friendIndex=arr.second;
-
-        while(!leaveQueue.empty() && leaveQueue.top().first <= arrTime)
-        {
-            available_chairs.push(leaveQueue.top().second);
-            leaveQueue.pop();
-        }
-
-        //assign smallest available chair
-        int chair = available_chairs.top();
-        available_chairs.pop();
-
-        if(friendIndex == targetFriend)
-            return chair;
-
-        leaveQueue.push({times[friendIndex][1],chair});
-        }
-        return -1;
+    return -1;
     }
 };
