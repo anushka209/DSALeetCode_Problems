@@ -315,6 +315,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anushka209/test/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/anushka209/test/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/anushka209/test/tree/master/2047-find-a-peak-element-ii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anushka209/test/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anushka209/test/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anushka209/test/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/anushka209/test/tree/master/2155-find-missing-observations) |
@@ -475,6 +476,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anushka209/test/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/anushka209/test/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anushka209/test/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anushka209/test/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -670,6 +672,7 @@
 | [0948-sort-an-array](https://github.com/anushka209/test/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/anushka209/test/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/anushka209/test/tree/master/1753-path-with-minimum-effort) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anushka209/test/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/anushka209/test/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
