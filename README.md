@@ -1,7 +1,9 @@
 # DSALeetCode
 <!---LeetCode Topics Start-->
-#### A collection of LeetCode questions to ace the coding interview! - Created using LeetHub v2
 # LeetCode Topics
+## A collection of LeetCode questions to ace the coding interview! - Created using LeetHub v2
+|  |
+| ------- |
 ## String
 |  |
 | ------- |
