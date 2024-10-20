@@ -45,6 +45,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/anushka209/test/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anushka209/test/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/anushka209/test/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/anushka209/test/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anushka209/test/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka209/test/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -146,6 +147,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/anushka209/test/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anushka209/test/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/anushka209/test/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/anushka209/test/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anushka209/test/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/anushka209/test/tree/master/2050-count-good-numbers) |
 ## Database
@@ -798,6 +800,7 @@
 | [1002-maximum-width-ramp](https://github.com/anushka209/test/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushka209/test/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/anushka209/test/tree/master/1078-remove-outermost-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/anushka209/test/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anushka209/test/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anushka209/test/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anushka209/test/tree/master/1756-minimum-deletions-to-make-string-balanced) |
