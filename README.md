@@ -297,6 +297,7 @@
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/anushka209/test/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anushka209/test/tree/master/0739-daily-temperatures) |
+| [0787-sliding-puzzle](https://github.com/anushka209/test/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/anushka209/test/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/anushka209/test/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
@@ -403,6 +404,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka209/test/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/anushka209/test/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/anushka209/test/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/anushka209/test/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anushka209/test/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/anushka209/test/tree/master/0999-regions-cut-by-slashes) |
@@ -829,6 +831,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/anushka209/test/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/anushka209/test/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anushka209/test/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/anushka209/test/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/anushka209/test/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anushka209/test/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anushka209/test/tree/master/0820-find-eventual-safe-states) |
