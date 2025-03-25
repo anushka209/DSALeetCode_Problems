@@ -390,6 +390,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anushka209/test/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka209/test/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anushka209/test/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anushka209/test/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
 |  |
 | ------- |
@@ -660,6 +661,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/anushka209/test/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka209/test/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anushka209/test/tree/master/3291-find-if-array-can-be-sorted) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anushka209/test/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Graph
 |  |
 | ------- |
