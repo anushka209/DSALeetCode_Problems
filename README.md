@@ -359,6 +359,7 @@
 | [2089-maximum-matrix-sum](https://github.com/anushka209/test/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anushka209/test/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/anushka209/test/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushka209/test/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anushka209/test/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anushka209/test/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anushka209/test/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -422,6 +423,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/anushka209/test/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/anushka209/test/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/anushka209/test/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushka209/test/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anushka209/test/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/anushka209/test/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anushka209/test/tree/master/2472-build-a-matrix-with-conditions) |
@@ -491,6 +493,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/anushka209/test/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/anushka209/test/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/anushka209/test/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushka209/test/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/anushka209/test/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka209/test/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -651,6 +654,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anushka209/test/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anushka209/test/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anushka209/test/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushka209/test/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anushka209/test/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anushka209/test/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/anushka209/test/tree/master/2502-sort-the-people) |
