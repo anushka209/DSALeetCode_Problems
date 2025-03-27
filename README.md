@@ -385,6 +385,7 @@
 | [2727-number-of-senior-citizens](https://github.com/anushka209/test/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/anushka209/test/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anushka209/test/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/anushka209/test/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/anushka209/test/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anushka209/test/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka209/test/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -561,6 +562,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anushka209/test/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anushka209/test/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/anushka209/test/tree/master/2755-extra-characters-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/anushka209/test/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka209/test/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka209/test/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka209/test/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -663,6 +665,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/anushka209/test/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anushka209/test/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anushka209/test/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/anushka209/test/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka209/test/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anushka209/test/tree/master/3291-find-if-array-can-be-sorted) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anushka209/test/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
