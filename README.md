@@ -144,6 +144,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anushka209/test/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anushka209/test/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/anushka209/test/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/anushka209/test/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka209/test/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -387,6 +388,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/anushka209/test/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/anushka209/test/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anushka209/test/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/anushka209/test/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anushka209/test/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka209/test/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -500,6 +502,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anushka209/test/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/anushka209/test/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka209/test/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anushka209/test/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -670,6 +673,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anushka209/test/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anushka209/test/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anushka209/test/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka209/test/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anushka209/test/tree/master/3291-find-if-array-can-be-sorted) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anushka209/test/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -905,6 +909,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anushka209/test/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/anushka209/test/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anushka209/test/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1170,6 +1175,7 @@
 | [0204-count-primes](https://github.com/anushka209/test/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/anushka209/test/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka209/test/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1198,6 +1204,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushka209/test/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anushka209/test/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/anushka209/test/tree/master/2227-sum-of-subarray-ranges) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anushka209/test/tree/master/3001-apply-operations-to-maximize-score) |
 ## Rolling Hash
 |  |
 | ------- |
